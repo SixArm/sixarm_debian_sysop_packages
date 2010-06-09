@@ -3,7 +3,7 @@ Version: 1.0.6
 Section: devel
 Priority: optional
 Architecture: all
-Depends: ack-grep, autoconf , automake1.9, bashdb, bison , build-essential, byacc, checkinstall, cron-apt, cryptsetup, curl, deborphan, devscripts, e2fslibs-dev, elinks, fakeroot, gettext, gperf, graphviz, groff, hashalot, htop, iproute , less , libcurl4-gnutls-dev, libglibmm-2.4-dev , libgnomeui-dev, libgtk2.0-dev , libicu-dev , libmozjs0d, libmozjs0d-dbg, libncurses5 , libncurses5-dev , libreadline5, libreadline5-dbg , libreadline5-dev , libsdl1.2-dev, libssl0.9.8 , libssl-dev , libtool , libxine1-ffmpeg, language-pack-en-base, locales, lsb, lynx, make, makepasswd, man, mc, mime-support, most, nano, ncurses-term, patch, ppp-dev, pv, readline-common, rsync, screen, tclreadline, tla, udev, unrar, unzip, xauth, zlib1g-dev, zsh, zsh-doc
+Depends: ack-grep, autoconf , automake1.9, bashdb, bison , build-essential, byacc, checkinstall, cron-apt, cryptsetup, curl, deborphan, devscripts, e2fslibs-dev, elinks, fakeroot, gettext, gperf, graphviz, groff, hashalot, htop, iproute , less , libcurl4-gnutls-dev, libglibmm-2.4-dev , libgnomeui-dev, libgtk2.0-dev , libicu-dev , libmozjs0d, libmozjs0d-dbg, libncurses5 , libncurses5-dev , libreadline5, libreadline5-dbg , libreadline5-dev , libsdl1.2-dev, libssl0.9.8 , libssl-dev , libtool , libxine1-ffmpeg, language-pack-en-base, locales, lsb, lynx, make, makepasswd, man, mc, mime-support, most, nano, ncurses-term, patch, ppp-dev, pv, readline-common, rsync, screen, sysfsutils, tclreadline, tla, udev, unrar, unzip, xauth, zlib1g-dev, zsh, zsh-doc
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: Linux packages we like to use
  Linux packages we like to use together.
