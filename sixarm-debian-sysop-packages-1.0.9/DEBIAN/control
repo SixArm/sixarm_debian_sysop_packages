@@ -1,0 +1,12 @@
+Package: sixarm-debian-sysop-packages
+Version: 1.0.9
+Section: devel
+Priority: optional
+Architecture: all
+Depends: ack-grep, autoconf, automake1.9, bashdb, bison, build-essential, byacc, bzr, checkinstall, cron-apt, cryptsetup, curl, deborphan, devscripts, dkms, e2fslibs-dev, elinks, fakeroot, gettext, ghex, gperf, graphviz, groff, hashalot, htop, intltool, iproute, less, libc-bin, libcurl4-gnutls-dev, libglibmm-2.4-dev, libgnomeui-dev, libgtk2.0-dev, libicu-dev, libncurses5, libncurses5-dev, libreadline6, libreadline6-dbg, libreadline6-dev, libreadline-java, libreadline-ruby, libruby, libsdl1.2-dev, libssl0.9.8, libsasl2-2, libsasl2-modules, libssl-dev, libtool, libxine1-ffmpeg, libxslt1-dev, libzip1, language-pack-en-base, locales, lsb, lynx, make, makepasswd, man-db, mc, meld, mime-support, most, nano, ncurses-term, p7zip-full, patch, pcregrep, ppp-dev, pv, readline-common, rsync, sasl2-bin, screen, subversion, sysfsutils, tclreadline, tla, udev, unrar-free, unzip, xauth, zlib1g-dev, zsh, zsh-doc
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: System Operator packages we like to use
+ System Operator packages we like to use together.
+
+
+
