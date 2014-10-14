@@ -60,7 +60,7 @@ pdftk
 ppp-dev
 pv
 python-subversion
-random-lines
+randomize-lines
 readline-common
 rsync
 sasl2-bin
